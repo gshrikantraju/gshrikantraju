@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gshrikantraju" alt="gshrikantraju" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineer @ Apexon**
+- 🌱 I’m currently working as **Data Engineer @ Apexon**
 
 - 📫 How to reach me **gshrikantraju@gmail.com**
 
